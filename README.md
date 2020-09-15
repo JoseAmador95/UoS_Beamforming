@@ -31,7 +31,7 @@ toolboxes are required.
 ## Real Implementation
 These models are what the report describes as Hardware-in-the-Loop as they feature real hardware system within the Simulink 
 environment. These models use the [MIMO version of the BladeRF MATLAB interface](https://github.com/JoseAmador95/BladeRF_MIMO), 
-which repository is linked inside the directory. The MIMO interface for the BladeRF still have the same dependencies the 
+which repository is linked inside the directory. The MIMO interface for the BladeRF still have the same dependencies as the 
 scripts provided by Nuand, so the [official tools](https://www.nuand.com/support/) are still required. Make sure to install and
 add the MATLAB tools to the path. More info in the repository.
 
