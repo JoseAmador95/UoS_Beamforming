@@ -1,5 +1,5 @@
-# User Equipment Tracking Beamforming Using Software-Defined Radio
-Repository for the models and code used in "UE Tracking Beamforming using Software-Defined Radio" MSc project for the course
+# User Equipment Tracking Beamforming Using a MIMO Software-Defined Radio
+Repository for the models and code used in "UE Tracking Beamforming using a MIMO Software-Defined Radio" MSc project for the course
 5G Mobile Communications and Intelligent Embedded Systems at the University of Sussex.
 
 The work done is divided into the following sections:
