@@ -1,6 +1,7 @@
 # User Equipment Tracking Beamforming Using a MIMO Software-Defined Radio
 Repository for the models and code used in "UE Tracking Beamforming using a MIMO Software-Defined Radio" MSc project for the course
-5G Mobile Communications and Intelligent Embedded Systems at the University of Sussex.
+5G Mobile Communications and Intelligent Embedded Systems at the University of Sussex. The goals, methodology and testing procedures 
+are described in the [report](Report.pdf).
 
 The work done is divided into the following sections:
 * Model setup script
@@ -14,6 +15,9 @@ The work done is divided into the following sections:
   * MIMO Interface for the BladeRF
   * MIMO SDR layout test model
   * User Equipment tracking model
+* CAD
+  * Fusion 360
+  * STEP
 * Report
 
 ## Model Setup Script
@@ -37,4 +41,8 @@ add the MATLAB tools to the path. More info in the repository.
 
 The models in this section are the testing scenario for the SDR unit and the real implementation of the UE tracking test, which
 results are described in the report.
+
+## CAD
+The CAD files used for the antenna structure are available in this section, including a parametric design using Fusion 360 and 
+a STEP version for it to be used with other CAD software.
 
