@@ -77,6 +77,7 @@ assert(mod(length(frame.bits), log2(system.mod.ModulationOrder)) == 0, ...
 system.tx.rc.interpolation = system.samples_per_step/length(frame.symbols);
 system.tx.rc.rolloff = 0.3; % Bandwith Excess factor
 system.tx.rc.span = 6; % Filter span
+system.tx.rc.gain = sqrt(system.tx.rc.interpolation); % Output gain
 
 % Receiver: Raised Cosine Filter
 system.rx.rc.sps = system.tx.rc.interpolation;  % Samples per symbol
