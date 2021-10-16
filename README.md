@@ -3,6 +3,8 @@ Repository for the models and code used in "UE Tracking Beamforming using a MIMO
 5G Mobile Communications and Intelligent Embedded Systems at the University of Sussex. The goals, methodology and testing procedures 
 are described in the [report](Report.pdf).
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/20510893/137567376-d5366586-6cab-48c5-87d6-b74423c6f72a.gif)
+
 The work done is divided into the following sections:
 * Model setup script
 * Simulations
