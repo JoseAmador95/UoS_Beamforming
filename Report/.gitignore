@@ -1,0 +1,9 @@
+# Latex output
+*.aux
+*.out
+*.toc
+*.log
+*.lot
+*.log
+*.bbl
+
